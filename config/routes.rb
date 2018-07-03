@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'welcometo_records_keeper_demo/index'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

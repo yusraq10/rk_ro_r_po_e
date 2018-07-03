@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  publish_certificate: MyText
+  retrieve_certificate: MyText
+  verify_certificate: MyText
+
+two:
+  publish_certificate: MyText
+  retrieve_certificate: MyText
+  verify_certificate: MyText
